@@ -1,0 +1,43 @@
+C:\Users\choco\source\repos\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.exe.config
+C:\Users\choco\source\repos\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.exe
+C:\Users\choco\source\repos\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.pdb
+C:\Users\choco\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.Form1.resources
+C:\Users\choco\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.Properties.Resources.resources
+C:\Users\choco\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.GenerateResource.cache
+C:\Users\choco\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.CoreCompileInputs.cache
+C:\Users\choco\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.exe
+C:\Users\choco\source\repos\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.pdb
+D:\Csharp\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.exe.config
+D:\Csharp\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.exe
+D:\Csharp\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.pdb
+D:\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.AssemblyReference.cache
+D:\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.SuggestedBindingRedirects.cache
+D:\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.Form1.resources
+D:\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.Properties.Resources.resources
+D:\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.GenerateResource.cache
+D:\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.CoreCompileInputs.cache
+D:\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.exe
+D:\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.pdb
+F:\Danny Pc Backup 30-12-2022\Csharp\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.exe.config
+F:\Danny Pc Backup 30-12-2022\Csharp\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.exe
+F:\Danny Pc Backup 30-12-2022\Csharp\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.pdb
+F:\Danny Pc Backup 30-12-2022\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.AssemblyReference.cache
+F:\Danny Pc Backup 30-12-2022\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.SuggestedBindingRedirects.cache
+F:\Danny Pc Backup 30-12-2022\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.Form1.resources
+F:\Danny Pc Backup 30-12-2022\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.Properties.Resources.resources
+F:\Danny Pc Backup 30-12-2022\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.GenerateResource.cache
+F:\Danny Pc Backup 30-12-2022\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.CoreCompileInputs.cache
+F:\Danny Pc Backup 30-12-2022\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.exe
+F:\Danny Pc Backup 30-12-2022\Csharp\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.pdb
+D:\Csharp Projects\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.exe.config
+D:\Csharp Projects\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.exe
+D:\Csharp Projects\StopwatchTimer\StopwatchTimer\bin\Debug\StopwatchTimer.pdb
+D:\Csharp Projects\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.AssemblyReference.cache
+D:\Csharp Projects\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.SuggestedBindingRedirects.cache
+D:\Csharp Projects\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.Form1.resources
+D:\Csharp Projects\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.Properties.Resources.resources
+D:\Csharp Projects\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.GenerateResource.cache
+D:\Csharp Projects\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.csproj.CoreCompileInputs.cache
+D:\Csharp Projects\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.exe
+D:\Csharp Projects\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.pdb
+D:\Csharp Projects\StopwatchTimer\StopwatchTimer\obj\Debug\StopwatchTimer.StopwatchUserControl.resources

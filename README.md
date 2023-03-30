@@ -7,4 +7,4 @@ Start when running application
 
 Demo video link: https://www.youtube.com/watch?v=8yKsPYKSx8E
 
-![Stopwatch Timer](https://imgur.com/a/0c2yDqM)
+![Stopwatch Timer](https://i.stack.imgur.com/JkzxC.jpg)
